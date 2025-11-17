@@ -35,6 +35,8 @@ Escribe un programa básico, que pregunte el nombre del usuario y muestre un men
 4. En lo que respecta al dispositivo en el que se ejecuta el programa, ¿Qué componentes del dispositivo se han visto involucrados y cómo, en el proceso de ejecución del ejecutable?    
 
     - CPU, Memoria, Sistema Operativo, Dispositivos de Entrada/Salida (E/S).
+
+    - En este caso, en la CPU ejecuta las instrucciones, Memoria (RAM) carga el ejecutable y los datos que sean necesarios, Sistema Operativo gestiona el proceso, asigna los recursos y coordina la ejecución del programa. Dispositivos de E/S serían los que permiten leer datos o mostrar resultados del programa. (teclado, monitor, ...)
 5. Finaliza con una **conclusion** sobre las diferencias que has encontrado entre los lenguajes del grupo 1 y grupo 2. (Pista: Virtual Machine)   
 
     - Diferencias, en este caso Python al ser interpretado (mediante CPython), no necesita compilación. Por su parte Java si necesita ser compilado y posteriormente ejecutado por la JVM. La sintaxis es diferente en cada lenguaje, la manera en la importación de librerias también.
